@@ -45,7 +45,7 @@ body {
 }
 
 .logo img {
-  width: var(--logo-width);
+  width: 50px;
 }
 
 .wrapper {
