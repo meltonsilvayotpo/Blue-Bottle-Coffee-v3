@@ -200,3 +200,5 @@ body {
   font-family: "Roboto", sans-serif;
 }
 /*# sourceMappingURL=main.css.map */
+
+#collapseOne > .accordion-body{background-color: #fdfbf7;}
